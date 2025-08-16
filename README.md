@@ -1,16 +1,46 @@
-# mvvm_architecture
+# Provider with MVVM Architecture (Flutter)
 
-A new Flutter project.
+This repository demonstrates the implementation of **Provider** state management in Flutter using the **MVVM (Model-View-ViewModel) architecture pattern**.  
+It serves as a practice project to understand how to structure Flutter applications cleanly and maintainably.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Overview
+The project showcases:
+- Separation of concerns using **MVVM architecture**.
+- Usage of **Provider** for reactive and scalable state management.
+- A clean and beginner-friendly example for learning Flutter app architecture.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🏗️ Project Structure
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Model** → Represents the data layer and business objects.  
+- **ViewModel** → Contains the application logic, exposes data to the UI using Provider.  
+- **View** → Flutter UI, listens to changes from the ViewModel via Provider.
+
+---
+
+## 📚 Concepts Practiced
+- **MVVM Pattern in Flutter**
+- **State Management with Provider**
+- **Clean Architecture Principles**
+- **Reactive UI Updates**
+- **Separation of Concerns**
+
+---
+
+## 🛠️ Tech Stack
+- **Flutter** (UI Framework)
+- **Provider** (State Management)
+- **MVVM Architecture**
+
+---
+
+## 🎯 Purpose
+This project was built to **practice and understand Provider with MVVM** in Flutter.  
+It is a basic yet solid foundation for structuring larger Flutter apps in a clean and maintainable way.
+
+
+
+
